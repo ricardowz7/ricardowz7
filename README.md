@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> A palavra **limão** deve ser destacada.
+ A palavra **limão** deve ser destacada.
 > Escrito por Alura Start
